@@ -6,6 +6,16 @@ Developed in collaboration with Claude 4 Sonnet and ChatGPT 5
 
 ---
 
+## 🎵 About Auralis
+
+Auralis is a fully AI-developed music player designed specifically for lossless audio codecs.
+
+- Works with lossy formats, but optimal quality is achieved with lossless audio when paired with **LAVFilters**.  
+- This is an **early build**; some bugs or performance issues may be present.  
+- Feedback is welcome to help refine the experience.
+
+---
+
 ## ⚠️ Disclaimer
 Auralis may trigger a **false positive virus flag** in some antivirus software.  
 This is a common occurrence with custom-built executables and does **not** indicate malicious behavior.  
@@ -27,16 +37,6 @@ To verify your download:
 
 Compare the result with the contents of `Auralis.exe.sha256`.  
 If they match exactly, your file is authentic.
-
----
-
-## 🎵 About Auralis
-
-Auralis is a fully AI-developed music player designed specifically for lossless audio codecs.
-
-- Works with lossy formats, but optimal quality is achieved with lossless audio when paired with **LAVFilters**.  
-- This is an **early build**; some bugs or performance issues may be present.  
-- Feedback is welcome to help refine the experience.
 
 ---
 
