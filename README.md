@@ -1,7 +1,7 @@
 # 🎧 Auralis – High-Fidelity Music Player
 
 Created by:  
-[@sevunteen](https://discord.com) (Discord) / [@quaintvfx](https://tiktok.com) (TikTok, Instagram)  
+[sevunteen](https://discord.com) (Discord) / [quaintvfx](https://tiktok.com) (TikTok, Instagram)  
 Developed in collaboration with Claude 4 Sonnet and ChatGPT 5  
 
 ---
