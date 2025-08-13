@@ -1,6 +1,6 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║                     AURALIS – High-Fidelity Music Player             ║
-╚══════════════════════════════════════════════════════════════════════╝
+
+                     AURALIS – High-Fidelity Music Player             
+
 
 Created by:
   @sevunteen (Discord) / @quaintvfx (TikTok, Instagram)
