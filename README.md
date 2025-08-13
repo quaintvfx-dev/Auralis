@@ -30,6 +30,16 @@ If they match exactly, your file is authentic.
 
 ---
 
+## 🎵 About Auralis
+
+Auralis is a fully AI-developed music player designed specifically for lossless audio codecs.
+
+- Works with lossy formats, but optimal quality is achieved with lossless audio when paired with **LAVFilters**.  
+- This is an **early build**; some bugs or performance issues may be present.  
+- Feedback is welcome to help refine the experience.
+
+---
+
 ## 📥 Installation Instructions
 
 1. **Install VLC**  
@@ -41,16 +51,6 @@ If they match exactly, your file is authentic.
    - Without LAVFilters, audio capabilities will be significantly limited.
 
 3. **Launch Auralis and Enjoy 🎵**
-
----
-
-## 🎵 About Auralis
-
-Auralis is a fully AI-developed music player designed specifically for lossless audio codecs.
-
-- Works with lossy formats, but optimal quality is achieved with lossless audio when paired with **LAVFilters**.  
-- This is an **early build**; some bugs or performance issues may be present.  
-- Feedback is welcome to help refine the experience.
 
 ---
 
