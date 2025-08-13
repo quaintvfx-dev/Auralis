@@ -1,5 +1,5 @@
 
-                                                    AURALIS – High-Fidelity Music Player             
+                                    AURALIS – High-Fidelity Music Player             
 
 
 Created by:
