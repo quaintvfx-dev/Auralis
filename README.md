@@ -66,4 +66,8 @@ Created by:
 ════════════════════════════════════════════════════════════════════════
  NOTE: For the best possible listening experience, install LAVFilters
        and use high-quality lossless audio sources.
+
+       Auralis is not a streaming service - it is a media player, 
+       designed to work with files on the user's device.
+       Do not expect streaming functionality at this point in time.
 ════════════════════════════════════════════════════════════════════════
